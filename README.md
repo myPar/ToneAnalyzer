@@ -39,5 +39,5 @@ docker-compose up
 
 Из AndroidStudio запускаем run _'app'_. В качестве эмулятора у меня выбран _Pixel 3a_
 
-![alt text](ezgif-1-037d033a3a-1.gif)
+![](ezgif-1-037d033a3a.gif)
 
