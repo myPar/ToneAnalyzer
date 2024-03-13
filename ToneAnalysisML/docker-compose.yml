@@ -1,0 +1,12 @@
+version: "3.8" # Compose file format version (corresponds to docker engine version)
+services:
+  tone-analysis-service:
+    build: ./ToneAnalysisService/
+    container_name: Android_tone-analysis-service
+    ports: 
+      - 8080:8080
+  toxixity-analysis-service:
+    build: ./ToxicityAnalysisService/
+    container_name: Android_toxicity-analysis-service
+    ports: 
+      - 8000:8000

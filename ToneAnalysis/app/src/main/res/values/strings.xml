@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToneAnalysis</string>
+    <string name="enter_text">enter text</string>
+    <string name="analysis">analysis</string>
+    <string name="toxicity_level_caption">toxicity ratio</string>
+    <string-array name="dropdown_analysis_options">
+        <item>Toxicity analysis</item>
+        <item>Tone analysis</item>
+    </string-array>
+</resources>
